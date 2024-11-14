@@ -61,7 +61,7 @@ assign BORROW=(~A)&B;
 endmodulemodule 
 
 
-Developed by: RegisterNumber:*/
+
 # TRUTHTABLE
 ![WhatsApp Image 2024-11-14 at 01 54 34_38034782](https://github.com/user-attachments/assets/a45d332c-5b0f-4f7b-9be2-7e49dd0d458e)
 

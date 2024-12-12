@@ -1,5 +1,6 @@
-# NAME          :R.LOKESHWARAN
-# REGISTOR NO   :24011606
+### NAME          :R.LOKESHWARAN
+### REGISTOR NO   :24011606
+
 # EXPERIMENT   3 :HALF ADDER SUBRACTOR 
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
@@ -52,13 +53,19 @@ Figure -02 HALF Subtractor
 
 # PROGRAM
 
- #### input A,B;HALF2(A,B,SUM,CARRRY,DIFF,BORROW);
- #### output SUM,CARRRY,DIFF,BORROW;
- #### assign SUM=A^B;
- #### assign CARRY=A&B;
- #### assign DIFF=A^B;
- #### assign BORROW=(~A)&B;
- #### endmodulemodule 
+ input A,B;HALF2(A,B,SUM,CARRRY,DIFF,BORROW);
+  
+ output SUM,CARRRY,DIFF,BORROW;
+ 
+ assign SUM=A^B;
+  
+ assign CARRY=A&B;
+  
+ assign DIFF=A^B;
+  
+ assign BORROW=(~A)&B;
+  
+ endmodulemodule 
 
 
 

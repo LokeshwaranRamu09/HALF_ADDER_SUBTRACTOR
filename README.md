@@ -1,7 +1,7 @@
 ### NAME          :R.LOKESHWARAN
 ### REGISTOR NO   :24011606
 
-# EXPERIMENT   3 :HALF ADDER SUBRACTOR 
+# EXPERIMENT   3 :  IMPLEMENTATION OF HALF ADDER SUBRACTOR 
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
